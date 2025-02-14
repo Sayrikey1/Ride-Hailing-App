@@ -1,0 +1,65 @@
+{
+  "email": "johndoe92@gmail.com",
+  "password": "P@ssw0rd123!",
+  "full_name": "John Doe",
+  "device_id": "f47ac10b-58cc-4372-a567-0e02b2c3d479",
+  "device_name": "iPhone 13 Pro"
+}
+
+
+{
+  "fcm_token": "d3f4g5h6i7j8k9l0m1n2o3p4q5r6s7t8",
+  "username": "johndoe92",
+  "password": "P@ssw0rd123!",
+  "device_id": "f47ac10b-58cc-4372-a567-0e02b2c3d479",
+  "device_name": "iPhone 13 Pro"
+}
+
+
+{
+  "phone_number": "+2347012178541",
+  "username": "johndoe92",
+  "gender": "Male",
+  "fcm_token": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6",
+  "dob": "1992-05-14",
+  "email": "johndoe92@gmail.com",
+  "address": "123 Main Street, Los Angeles, CA, USA"
+}
+
+{
+  "driver": "0d733f4c7b0f4290a93d829b078e746a",
+  "start_location": "University of Lagos",
+  "end_location": "Bariga",
+  "status": "R"
+}
+
+------------------------------------------------------------
+
+{
+  "email": "leomessi10@gmail.com",
+  "password": "M@ssi1987!",
+  "full_name": "Lionel Messi",
+  "device_id": "a10b20c30d40e50f60g70h80i90j100k",
+  "device_name": "iPhone 15 Pro Max"
+}
+
+{
+  "fcm_token": "m1e2s3s4i5g6o7a8t9l0e1o2n3e4l5",
+  "username": "leomessi10",
+  "password": "M@ssi1987!",
+  "device_id": "a10b20c30d40e50f60g70h80i90j100k",
+  "device_name": "iPhone 15 Pro Max"
+}
+
+
+{
+  "phone_number": "+2347013378521",
+  "username": "leomessi10",
+  "gender": "Male",
+  "fcm_token": "m1e2s3s4i5g6o7a8t9l0e1o2n3e4l5",
+  "dob": "1987-06-24",
+  "email": "leomessi10@gmail.com",
+  "address": "Bellamar, Castelldefels, Barcelona, Spain",
+  "license_number": "LM102022GOAT"
+}
+
